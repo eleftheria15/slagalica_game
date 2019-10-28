@@ -1,4 +1,5 @@
 # Slagalica - Association game written in Java
+
 You will need to change the static paths for pictures in the source code.
 
 
